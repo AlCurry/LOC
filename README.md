@@ -39,4 +39,4 @@
 
 <ins>Disclaimer</ins>
 
-It’s been some time since I studied C# or worked with Microsoft Visual Studio.  Uncertain about commenting standards at your organization, most places i’ve worked this was encouraged.  I’ve read about clean code and see that commenting is sometimes discouraged.  Glad to adapt to a company’s coding standard.  Aware of xml commenting in C#, and can see its merits, but now used classic format comments.
+It’s been some time since I studied C# or worked with Microsoft Visual Studio.  Uncertain about commenting standards at your organization, most places i’ve worked this was encouraged.  I’ve read about clean code and see that commenting is sometimes discouraged.  Glad to adapt to a company’s coding standard.  Aware of xml commenting in C#, and can see its merits, but here used classic format comments.
