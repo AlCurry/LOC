@@ -4,7 +4,6 @@
  * 
  * LOC problem - defined in detail at url below, also .pdf file in repository.
  * https://ccd-school.de/en/coding-dojo/application-katas/loc/
- * 
  *  
  */
 
