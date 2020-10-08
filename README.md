@@ -13,9 +13,9 @@
 
 
 
-#### Design / Code Description
+#### Design / Code Descriptrion
 ---
-1.  One file, Program.cs
+1.  One code file, Program.cs, in directory countLinesOfCode.
 1.  Main program calls LinesOfCode several times with different strings, 
     the input code
 1.  Function LinesOfCode
@@ -36,6 +36,7 @@
     - look for line feed ("\n")
     - don't count blank lines
     - return the count of lines 
+1.  Screenshot of output - output.png.
 
 <ins>Disclaimer</ins>
 
